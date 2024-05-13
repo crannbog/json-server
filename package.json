@@ -1,7 +1,7 @@
 {
-  "name": "json-server",
+  "name": "@crannbog/json-server",
   "version": "1.0.0",
-  "description": "Get a full fake REST API with zero coding in less than 30 seconds",
+  "description": "Get a full fake REST API with zero coding in less than 30 seconds - Fork of original v0 of typicode's json-server. This fork keeps MIT license.",
   "main": "./lib/server/index.js",
   "bin": "./lib/cli/bin.js",
   "files": [
@@ -99,5 +99,6 @@
   ],
   "jest": {
     "testURL": "http://localhost/"
-  }
+  },
+  "private": false
 }
