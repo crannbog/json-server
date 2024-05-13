@@ -1,3 +1,6 @@
+> [!CAUTION]
+> <i>NOTE: This is a fork of official `json-server` package's original v0 version to keep MIT License. It will be maintained with security updates, no further features planned.</i> 
+
 # JSON Server [![Node.js CI](https://github.com/typicode/json-server/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/typicode/json-server/actions/workflows/node.js.yml)
 
 Get a full fake REST API with __zero coding__ in __less than 30 seconds__ (seriously)
