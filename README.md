@@ -1,53 +1,10 @@
 > [!CAUTION]
-> <i>NOTE: This is a fork of official `json-server` package's original v0 version to keep MIT License. It will be maintained with security updates, no further features planned.</i> 
+> <i>NOTE: This is a fork of official `json-server` package's original v0 version to keep MIT License. It will be maintained with security updates, no further features planned.</i>
+> Official project: <a href="https://github.com/typicode/json-server">https://github.com/typicode/json-server</a>
 
-# JSON Server [![Node.js CI](https://github.com/typicode/json-server/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/typicode/json-server/actions/workflows/node.js.yml)
+# JSON Server
 
 Get a full fake REST API with __zero coding__ in __less than 30 seconds__ (seriously)
-
-Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
-
-See also:
-* :dog: [husky - Git hooks made easy](https://github.com/typicode/husky)
-* :owl: [lowdb - local JSON database](https://github.com/typicode/lowdb)
-
-<p>&nbsp;</p>
-
-<h2 align="center">Gold sponsors</h2>
-
-<p>&nbsp;</p>
-
-<p align="center">
-  <a href="https://mockend.com/" target="_blank">
-    <img src="https://jsonplaceholder.typicode.com/mockend.svg" height="70px">
-  </a>
-</p>
-
-<p>&nbsp;</p>
-
-<h2 align="center">Silver sponsors</h2>
-
-<p>&nbsp;</p>
-
-<h2 align="center">Bronze sponsors</h2>
-
-<p>&nbsp;</p>
-
-<p align="center">
-  <a href="https://www.storyblok.com/" target="_blank">
-    <img src="https://github.com/typicode/json-server/assets/5502029/c6b10674-4ada-4616-91b8-59d30046b45a" height="40px">
-  </a>
-</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-[Become a sponsor and have your company logo here](https://github.com/users/typicode/sponsorship)
-
-## Sponsor
-
-__Please help me build OSS__ 👉 [GitHub Sponsors](https://github.com/sponsors/typicode) :heart:
 
 ## Table of contents
 
@@ -85,10 +42,6 @@ __Please help me build OSS__ 👉 [GitHub Sponsors](https://github.com/sponsors/
     + [Mounting JSON Server on another endpoint example](#mounting-json-server-on-another-endpoint-example)
     + [API](#api)
   * [Deployment](#deployment)
-- [Links](#links)
-  * [Video](#video)
-  * [Articles](#articles)
-  * [Third-party tools](#third-party-tools)
 - [License](#license)
 
 <!-- tocstop -->
@@ -597,30 +550,6 @@ Returns JSON Server router.
 
 You can deploy JSON Server. For example, [JSONPlaceholder](http://jsonplaceholder.typicode.com) is an online fake API powered by JSON Server and running on Heroku.
 
-## Links
-
-### Video
-
-* [Creating Demo APIs with json-server on egghead.io](https://egghead.io/lessons/nodejs-creating-demo-apis-with-json-server)
-
-### Articles
-
-* [Node Module Of The Week - json-server](http://nmotw.in/json-server/)
-* [ng-admin: Add an AngularJS admin GUI to any RESTful API](http://marmelab.com/blog/2014/09/15/easy-backend-for-your-restful-api.html)
-* [Fast prototyping using Restangular and Json-server](https://glebbahmutov.com/blog/fast-prototyping-restangular-and-json-server/)
-* [No API? No Problem! Rapid Development via Mock APIs](https://medium.com/@housecor/rapid-development-via-mock-apis-e559087be066#.93d7w8oro)
-* [Zero Code REST With json-server](https://dzone.com/articles/zero-code-rest-with-json-server)
-
-### Third-party tools
-
-* [Grunt JSON Server](https://github.com/tfiwm/grunt-json-server)
-* [Docker JSON Server](https://github.com/clue/docker-json-server)
-* [JSON Server GUI](https://github.com/naholyr/json-server-gui)
-* [JSON file generator](https://github.com/dfsq/json-server-init)
-* [JSON Server extension](https://github.com/maty21/json-server-extension)
-
 ## License
 
 MIT
-
-[Supporters](https://thanks.typicode.com) ✨
