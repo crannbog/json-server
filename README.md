@@ -7,12 +7,6 @@ Get a full fake REST API with __zero coding__ in __less than 30 seconds__ (serio
 
 Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
 
-> [!NOTE]
-> Try JSON Server `v1-alpha` [here](https://github.com/typicode/json-server) 🚀
-
-* [JSONPlaceholder - Live running version](https://jsonplaceholder.typicode.com)
-* [__My JSON Server__ - no installation required, use your own data](https://my-json-server.typicode.com)
-
 See also:
 * :dog: [husky - Git hooks made easy](https://github.com/typicode/husky)
 * :owl: [lowdb - local JSON database](https://github.com/typicode/lowdb)
